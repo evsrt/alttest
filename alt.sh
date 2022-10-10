@@ -1,0 +1,1 @@
+sh "/tmp/tmp/linux-amd64_deb/install.sh kc1 lsb-cprocsp-pkcs11 cprocsp-rdr-pcsc cprocsp-rdr-gui-gtk cprocsp-rdr-emv cprocsp-rdr-inpaspot cprocsp-rdr-kst cprocsp-rdr-mskey cprocsp-rdr-novacard cprocsp-rdr-edoc cprocsp-rdr-rutoken cprocsp-rdr-cloud cprocsp-rdr-cpfkc cprocsp-rdr-infocrypt cprocsp-rdr-rosan cprocsp-rdr-cryptoki"
